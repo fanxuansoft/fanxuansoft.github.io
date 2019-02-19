@@ -1,0 +1,18 @@
+# Site settings
+name: 樊绚
+location: 浙江-杭州
+company: 
+position: Java开发工程师
+github: https://github.com/
+facebook: https://www.facebook.com/
+phone: 15190038750
+email: fanxuansoft@aliyun.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
