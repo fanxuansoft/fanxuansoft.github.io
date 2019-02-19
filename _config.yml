@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 15190038750
 email: fanxuansoft@aliyun.com
 
-baseurl: "/resume.io"
+baseurl: "/"
 
 permalink: /:year/:month/:day/:title/
 
